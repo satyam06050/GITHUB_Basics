@@ -1,0 +1,28 @@
+git init
+   6 git status
+   7 dir
+   8 rm testing.c
+   9 git init
+  10 git status
+  11 gcc testing.c
+  12 ls testing
+  13 cd testing.c
+  14 mkdir testing.c
+  15 gcc testing.c
+  16 ls
+  17 git status
+  18 git init
+  19 clear
+  20 ls
+  21 git status
+  22 git add testing.c
+  23 git status
+  24 git add testing.c
+  25 git add testing.c
+  26 git status
+  27  git commit -m "added testing file"
+  28 git status
+  29 rm testing.c
+  30 git status
+  31 git restore testing.c
+  
