@@ -25,4 +25,8 @@ git init
   29 rm testing.c
   30 git status
   31 git restore testing.c
+  git remote add origin git@github.com:satyam06050/GITHUB_Basics.git
+  43 git remote -v
+  44 git push origin master
+  45 clear
   
